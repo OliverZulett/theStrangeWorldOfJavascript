@@ -36,6 +36,8 @@ functionWithParams(10, 20, 30, 40, 50);
 let params_array = ["a", "b", "c", "d", "e"];
 functionWithParams(...params_array);
 
+// ---> pasar una funcion como parametro
+
 // RETURN
 function multiply(param1, param2) {
   return param1 * param2;
